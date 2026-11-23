@@ -1,0 +1,45 @@
+# Local environments, caches and build products
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.mplconfig/
+.DS_Store
+*.egg-info/
+build/
+dist/
+# Observations, ephemerides, clocks, chains and derived products
+*.par
+*.par.*
+*.tim
+*.tim.*
+*.clk
+*.dat
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.csv
+*.tsv
+*.log
+*.png
+*.pdf
+*.zip
+*.tar*
+*.ipynb
+results/
+output*/
+validation/
+input/
+data/
+private/
+runtime/
+portable_support/
+# Credentials / local configuration
+.env
+.env.*
+!.env.example
