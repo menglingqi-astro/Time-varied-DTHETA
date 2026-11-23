@@ -2,6 +2,8 @@
 
 A source-based Python workflow for binary-pulsar timing and stochastic-noise inference with **PINT**, **enterprise**, and **emcee**. It provides independent **DDAB**, **DDHAB**, and **DDGRAB** timing-model extensions, conditional recovery of timing parameters, and checks of the local timing approximation against full nonlinear PINT residuals.
 
+**The code was generated and organized with assistance from OpenAI Codex.**
+
 This repository contains software and synthetic tests only. It includes **no observed TOAs, source ephemerides, fitted solutions, posterior chains, observatory clock tables, or private runtime configuration**. Supply your own phase-connected narrowband radio timing data. The in-memory models and TOAs in the tests are artificial software fixtures.
 
 ## Contents
@@ -312,8 +314,6 @@ licenses/             retained upstream notice
 The release omits all original observed data, par files, validation runs, chains, logs, plots, notebooks, archives, cached runtime data, and machine-specific launchers. `.gitignore` adds protection for common scientific data/output formats; it is not a substitute for checking staged files before publishing.
 
 This project is licensed under the [MIT License](LICENSE). See [docs/RELEASE_NOTES.md](docs/RELEASE_NOTES.md) for changes made during packaging and [NOTICE.md](NOTICE.md) for upstream attribution and applicable third-party licenses.
-
-This project was developed with assistance from OpenAI Codex, including AI-generated code. 
 
 Third-party code and adaptations remain subject to their respective licenses and attribution notices. See `LICENSE`, `NOTICE.md`, and the `licenses/` directory for details.
 
