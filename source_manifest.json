@@ -1,0 +1,227 @@
+{
+  "python_files": [
+    {
+      "path": "ddab/__init__.py",
+      "original_sha256": "5475049214efe7fca0e4bd1d8c7ad64019ad474ce1c13ec8c4a986568d53a912",
+      "release_sha256": "5475049214efe7fca0e4bd1d8c7ad64019ad474ce1c13ec8c4a986568d53a912",
+      "changed": false
+    },
+    {
+      "path": "ddab/loader.py",
+      "original_sha256": "1de02f05f6306e43899f59078c5691d32099ac3bca77637196673cb2b184770f",
+      "release_sha256": "1de02f05f6306e43899f59078c5691d32099ac3bca77637196673cb2b184770f",
+      "changed": false
+    },
+    {
+      "path": "ddab/model.py",
+      "original_sha256": "aa38b33e62dff13c08df6ea828acb8fde4e61be1818369b6d5f3cba03543a284",
+      "release_sha256": "aa38b33e62dff13c08df6ea828acb8fde4e61be1818369b6d5f3cba03543a284",
+      "changed": false
+    },
+    {
+      "path": "ddgrab/__init__.py",
+      "original_sha256": "1e77ab0817e18b3b4eb45b2b8f4313fcd3120faed81dd1b8a7f3d3d4141aa49b",
+      "release_sha256": "1e77ab0817e18b3b4eb45b2b8f4313fcd3120faed81dd1b8a7f3d3d4141aa49b",
+      "changed": false
+    },
+    {
+      "path": "ddgrab/fixed_noise.py",
+      "original_sha256": "c020b054d6f35d39b394b003d8ce47c9973e21cd797169f00ee562aaf4938216",
+      "release_sha256": "c020b054d6f35d39b394b003d8ce47c9973e21cd797169f00ee562aaf4938216",
+      "changed": false
+    },
+    {
+      "path": "ddgrab/loader.py",
+      "original_sha256": "86dd3f6627533df7c26acc01059bb6371487c387577281917ab5eeb88872df0e",
+      "release_sha256": "86dd3f6627533df7c26acc01059bb6371487c387577281917ab5eeb88872df0e",
+      "changed": false
+    },
+    {
+      "path": "ddgrab/model.py",
+      "original_sha256": "e0de55a3154c5363ba5339f09549e731c8f56b56b91107f9cc72c0f629b67c46",
+      "release_sha256": "e0de55a3154c5363ba5339f09549e731c8f56b56b91107f9cc72c0f629b67c46",
+      "changed": false
+    },
+    {
+      "path": "ddhab/__init__.py",
+      "original_sha256": "561adbc15c975a27bcf9ade9f326be738edc5332ef87d44bb8fef5b9a3bc6b07",
+      "release_sha256": "561adbc15c975a27bcf9ade9f326be738edc5332ef87d44bb8fef5b9a3bc6b07",
+      "changed": false
+    },
+    {
+      "path": "ddhab/loader.py",
+      "original_sha256": "71b4b9d27cc940fa4794415dc7f69ded7e18a51c597775c89f03a9865cc3d3f6",
+      "release_sha256": "71b4b9d27cc940fa4794415dc7f69ded7e18a51c597775c89f03a9865cc3d3f6",
+      "changed": false
+    },
+    {
+      "path": "ddhab/model.py",
+      "original_sha256": "e776979e1b1cc1c19f65afb00ed9ec57f6d485b2420c0a1bca1121691ca5da53",
+      "release_sha256": "e776979e1b1cc1c19f65afb00ed9ec57f6d485b2420c0a1bca1121691ca5da53",
+      "changed": false
+    },
+    {
+      "path": "run_analysis.py",
+      "original_sha256": "319b0c03c8c59478fd03b1adfb4a3fa7bf46432aa68eefec016bde97be4ce8ed",
+      "release_sha256": "319b0c03c8c59478fd03b1adfb4a3fa7bf46432aa68eefec016bde97be4ce8ed",
+      "changed": false
+    },
+    {
+      "path": "scripts/common.py",
+      "original_sha256": "5515f8619842b149251943b96996f252741161de18aa490b66a31da32c9e5d49",
+      "release_sha256": "5515f8619842b149251943b96996f252741161de18aa490b66a31da32c9e5d49",
+      "changed": false
+    },
+    {
+      "path": "scripts/corner_plots.py",
+      "original_sha256": "42140dcd03f32008d55b66b471facd8d7725acb9deeb3b9528f7b3c1faba3c5b",
+      "release_sha256": "42140dcd03f32008d55b66b471facd8d7725acb9deeb3b9528f7b3c1faba3c5b",
+      "changed": false
+    },
+    {
+      "path": "scripts/dd_derivatives.py",
+      "original_sha256": "eb53b2f793776f69a57775439e08a8d69e7dd0f886904372c9773e8c100ab1ce",
+      "release_sha256": "eb53b2f793776f69a57775439e08a8d69e7dd0f886904372c9773e8c100ab1ce",
+      "changed": false
+    },
+    {
+      "path": "scripts/ddgr_derivatives.py",
+      "original_sha256": "19b1f339b133aac969559725ab9efc21c472e28f131b829e7760357cb33ad8e2",
+      "release_sha256": "19b1f339b133aac969559725ab9efc21c472e28f131b829e7760357cb33ad8e2",
+      "changed": false
+    },
+    {
+      "path": "scripts/ddh_derivatives.py",
+      "original_sha256": "238b3ea4ab8ee8b37a3f6df79d0ec6d7f2623ba2ebcf5f47aebf91996c7a9e25",
+      "release_sha256": "238b3ea4ab8ee8b37a3f6df79d0ec6d7f2623ba2ebcf5f47aebf91996c7a9e25",
+      "changed": false
+    },
+    {
+      "path": "scripts/derived.py",
+      "original_sha256": "db5b296337df5b25515ebb8ce718aafd1bc244f195da38e9cd74661f69b4843b",
+      "release_sha256": "db5b296337df5b25515ebb8ce718aafd1bc244f195da38e9cd74661f69b4843b",
+      "changed": false
+    },
+    {
+      "path": "scripts/dm_diagnostics.py",
+      "original_sha256": "e881320cb858542c49987608c8fa7e5a599c2ab687d54224d8d1ef70a9455aa4",
+      "release_sha256": "e881320cb858542c49987608c8fa7e5a599c2ab687d54224d8d1ef70a9455aa4",
+      "changed": false
+    },
+    {
+      "path": "scripts/dm_epoch_selection.py",
+      "original_sha256": "d489bfe77a5af7cb37f3e42c8c1ee7cc8d8a75b7fb006e25388f0068feb6f372",
+      "release_sha256": "d489bfe77a5af7cb37f3e42c8c1ee7cc8d8a75b7fb006e25388f0068feb6f372",
+      "changed": false
+    },
+    {
+      "path": "scripts/fast_shapiro.py",
+      "original_sha256": "7ce6c48f709d46b7af6a4729e9c52a2838469d0c1397000240f2a119ab4b3781",
+      "release_sha256": "7ce6c48f709d46b7af6a4729e9c52a2838469d0c1397000240f2a119ab4b3781",
+      "changed": false
+    },
+    {
+      "path": "scripts/noise_core.py",
+      "original_sha256": "df9a2983bfe471fd6192a50c5565d0749445dfee1cb2c8d55b733b278e623ba4",
+      "release_sha256": "df9a2983bfe471fd6192a50c5565d0749445dfee1cb2c8d55b733b278e623ba4",
+      "changed": false
+    },
+    {
+      "path": "scripts/parameter_ranges_to_json.py",
+      "original_sha256": "560d52d2d087af3cf9b1b3d6d992cd158abc9b08ceb3873a5180cc138b6e111e",
+      "release_sha256": "560d52d2d087af3cf9b1b3d6d992cd158abc9b08ceb3873a5180cc138b6e111e",
+      "changed": false
+    },
+    {
+      "path": "scripts/plots.py",
+      "original_sha256": "85c53a144c7dc00da20f51f69d1896ed6e2ea8f7d0518b93452d1821b812a3d3",
+      "release_sha256": "85c53a144c7dc00da20f51f69d1896ed6e2ea8f7d0518b93452d1821b812a3d3",
+      "changed": false
+    },
+    {
+      "path": "scripts/prepare.py",
+      "original_sha256": "5dbd197f05f9f3fae4004c51577583572daabc3ea3c81bec8bcfd092b562950b",
+      "release_sha256": "5dbd197f05f9f3fae4004c51577583572daabc3ea3c81bec8bcfd092b562950b",
+      "changed": false
+    },
+    {
+      "path": "scripts/recover.py",
+      "original_sha256": "d41c594aa0c2e19d181c8c04eec15d84324fe9eb67da5e7eb1b61b0cbc016faa",
+      "release_sha256": "66c82d060ccb650ab6ca85b958e77d8eced87e5a640806458988a8a794554729",
+      "changed": true
+    },
+    {
+      "path": "scripts/replot.py",
+      "original_sha256": "133e46f0e69e6e9a1908009d8ff79a6b398a3cec9083f4622fb73aeced7e49b2",
+      "release_sha256": "133e46f0e69e6e9a1908009d8ff79a6b398a3cec9083f4622fb73aeced7e49b2",
+      "changed": false
+    },
+    {
+      "path": "scripts/reuse.py",
+      "original_sha256": "69192ad50d4eacd143b156a65439a4332245a8c03dd440a3742ec1bf4ea15a36",
+      "release_sha256": "69192ad50d4eacd143b156a65439a4332245a8c03dd440a3742ec1bf4ea15a36",
+      "changed": false
+    },
+    {
+      "path": "scripts/sample.py",
+      "original_sha256": "76233f68d6f98d6df7c44ce5260cc56aeb5108b6f4cd14b67f14e77010f6f5fe",
+      "release_sha256": "76233f68d6f98d6df7c44ce5260cc56aeb5108b6f4cd14b67f14e77010f6f5fe",
+      "changed": false
+    },
+    {
+      "path": "scripts/sampling_moves.py",
+      "original_sha256": "04df68ca67443e4207a196ab9f7aa2607d1755bc96f3eb1d25833ea347115b49",
+      "release_sha256": "04df68ca67443e4207a196ab9f7aa2607d1755bc96f3eb1d25833ea347115b49",
+      "changed": false
+    },
+    {
+      "path": "scripts/warm_start.py",
+      "original_sha256": "b45e8b64e721d5a27e70474eefbb28ffbbe797138a4a26fecb2810309b75ec0d",
+      "release_sha256": "b45e8b64e721d5a27e70474eefbb28ffbbe797138a4a26fecb2810309b75ec0d",
+      "changed": false
+    },
+    {
+      "path": "tests/test_core.py",
+      "original_sha256": "86feb262f0c07e61e24ecbef364cc092543d3322cf3562ef0617e3d8ba93d9e2",
+      "release_sha256": "0bd0be99fe2dcd81ae80391b47424d592c2caf6095a4089fca4275a7a3ec54b3",
+      "changed": true
+    },
+    {
+      "path": "tests/test_ddab.py",
+      "original_sha256": "54e60c0b7881604168dc2aeed712d32bb85ff95d51437966d847598b2a23b33b",
+      "release_sha256": "81ec6ce2809cffdc533a768f1dc5560bf3c3d5331399b6439594beeafa4f4cac",
+      "changed": true
+    },
+    {
+      "path": "tests/test_ddgrab.py",
+      "original_sha256": "968f26044426148c8becb2f0f5ee6c86252bd4d5647b41ace8fe43ccee52e516",
+      "release_sha256": "7a082435d23bd444b2985a9414c5b5d066afb58a79d7fe0e1aa7c58780bb7819",
+      "changed": true
+    },
+    {
+      "path": "tests/test_ddhab.py",
+      "original_sha256": "fdeab1d77fd1519c8148f4a66924d835fbd469c47b3abf92fa76003fb0ee94a1",
+      "release_sha256": "09dab33306399f9d3c0ef1ed80c2fa8c9e135668c4cf2e0effe67cf87b1bb6d3",
+      "changed": true
+    },
+    {
+      "path": "tests/test_plotting.py",
+      "original_sha256": "e2425aca3d44c70be56422bd6b32d0497316375194e654672972692adfb76dd8",
+      "release_sha256": "dd6524a3ae9dec0481fbc9b977dc78e12198e84fd16c870d6280582fdf0b0c37",
+      "changed": true
+    },
+    {
+      "path": "tests/test_run_analysis.py",
+      "original_sha256": "3bb0cdc78a1c7b91d5b642832374dbf7aeef6403d8bfbed14dff0f29bd8445c6",
+      "release_sha256": "5a43bd92072b77034e690cc1f430409b558073ebde41d4f026c44cbd22dd0fe0",
+      "changed": true
+    },
+    {
+      "path": "tests/test_warm_start.py",
+      "original_sha256": "13679e4a6fa9274049c32e8aa88ef1d7a2eae7ec7c6048257b2add409accf113",
+      "release_sha256": "13679e4a6fa9274049c32e8aa88ef1d7a2eae7ec7c6048257b2add409accf113",
+      "changed": false
+    }
+  ],
+  "observation_files_included": false
+}

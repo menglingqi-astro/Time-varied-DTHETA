@@ -1,0 +1,12 @@
+# Tested in Python 3.11. Use a separate environment; PINT below is pulsar PINT.
+pint-pulsar==1.1.7
+enterprise-pulsar>=3.4,<4
+emcee>=3.1,<4
+numpy>=1.24
+scipy>=1.10
+astropy>=6
+matplotlib>=3.7
+h5py>=3.8
+loguru>=0.7
+corner>=2.2,<3
+platformdirs>=3
